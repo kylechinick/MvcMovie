@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hsB2hrDcHeUr6RgmKJK3wVP33ItupSYLNWS8tMiu9T0=",
+  "Hash": "pWeGRoy6HazQqMM60JBR38Gn96lEQvOCn6flBnMVRW0=",
   "Source": "MvcMovie",
   "BasePath": "_content/MvcMovie",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/obj/Debug/net6.0/scopedcss/projectbundle/MvcMovie.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/wwwroot/.DS_Store",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/wwwroot/",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/wwwroot/css/site.css",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/wwwroot/lib/.DS_Store",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/wwwroot/",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "lib/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/.DS_Store"
     },
     {
       "Identity": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
