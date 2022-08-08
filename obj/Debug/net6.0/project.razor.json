@@ -16313,6 +16313,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/Views/HelloWorld/Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/Views/HelloWorld/Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/kylechinick/Documents/Development/projects/educational/epicodus/C-Sharp/MvcMovie/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
